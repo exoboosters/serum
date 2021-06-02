@@ -1,9 +1,9 @@
 {
-  "name": "@project-serum/serum",
+  "name": "@abytecurious/serum",
   "version": "0.13.38",
   "description": "Library for interacting with the serum dex",
   "license": "MIT",
-  "repository": "project-serum/serum-ts",
+  "repository": "exoboosters/serum-ts",
   "main": "lib/index.js",
   "source": "src/index.js",
   "types": "lib/index.d.ts",
